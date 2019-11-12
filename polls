@@ -1,5 +1,2 @@
-$ curl -sf https://up.apex.sh/install | sh
-M
-S
-C
-D
+$ polls new "Option A" "Option B" "Option C"
+
